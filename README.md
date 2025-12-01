@@ -4,8 +4,7 @@
 
 # Template Link
 
-Looking for a sample automation template?  
-Try this: [AI Agent Integration Scenario (Make.com)](https://eu1.make.com/public/shared-scenario/EpnsIvdn8pU/integration-webhooks-open-ai-chat-gpt-s)
+ [AI Agent Integration Scenario (Make.com)](https://eu1.make.com/public/shared-scenario/EpnsIvdn8pU/integration-webhooks-open-ai-chat-gpt-s)
 
 ---
 
