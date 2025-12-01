@@ -2,6 +2,13 @@
 
 ---
 
+# Template Link
+
+Looking for a sample automation template?  
+Try this: [AI Agent Integration Scenario (Make.com)](https://eu1.make.com/public/shared-scenario/EpnsIvdn8pU/integration-webhooks-open-ai-chat-gpt-s)
+
+---
+
 # Section 1: Short Answer Questions
 
 ---
@@ -10,10 +17,10 @@
 
 **LangChain** and **AutoGen** are pivotal frameworks in the AI agent landscape, each with distinct philosophies:
 
-| Framework  | Purpose                                                   | Strengths                                        | Limitations                           | Use Cases                                   |
-|------------|-----------------------------------------------------------|--------------------------------------------------|----------------------------------------|----------------------------------------------|
-| **LangChain** | Build language-model-powered applications with chains of logic.   | Sophisticated pipelines, prompt/component chaining, great for RAG and chatbots. | Not natively built for multi-agent collaboration. | Advanced chatbots, document analysis, content creation. |
-| **AutoGen**  | Orchestrate multi-agent collaboration and conversable teams.        | Multi-agent dialog, collaborative problem solving, expertise specialization.      | Steep orchestration learning curve, can be compute-intensive. | Dev teams, multi-step research, software agents, workflow automation. |
+| Framework  | Purpose                                                   | Strengths                                        | Limitations                           | Use Cases                         [...]|
+|------------|-----------------------------------------------------------|--------------------------------------------------|----------------------------------------|----------------------------------[...]|
+| **LangChain** | Build language-model-powered applications with chains of logic.   | Sophisticated pipelines, prompt/component chaining, great for RAG and chatbots. | Not natively built for multi-age[...]|
+| **AutoGen**  | Orchestrate multi-agent collaboration and conversable teams.        | Multi-agent dialog, collaborative problem solving, expertise specialization.      | Steep orchestration learning [...]|
 
 - **LangChain:** Focuses on chaining prompts, tools, memory, and language models to build context-aware agent pipelines (like RAG/search systems).  
 - **AutoGen:** Designed for collaborative, conversable agents that can delegate and interact to solve complex tasks, enabling multi-step workflows and expertise orchestration.
